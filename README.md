@@ -33,6 +33,12 @@ print_color(Variable, 0, 0, 255)
 
 For a more complex definition of smith syntax refer to the other files in the repo.
 
+## Version 1 Progress
+
+Progress 75%[█████████████████░░░░░]
+
+Smith is in the near ready stage, fully bootstrapped compilers for both .sml files and .sm files exist and are mostly functinal. Final preperations include combining them into a single executable and doing rigerous debug testing. After I have a stable starter compiler i will release it as a demo version for testing and sytnax exploration.
+
 
 
 
